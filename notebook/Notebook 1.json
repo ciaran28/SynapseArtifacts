@@ -14,7 +14,7 @@
 				"spark.dynamicAllocation.enabled": "false",
 				"spark.dynamicAllocation.minExecutors": "2",
 				"spark.dynamicAllocation.maxExecutors": "2",
-				"spark.autotune.trackingId": "36863768-0131-4fcc-a1aa-c8b678e128b0"
+				"spark.autotune.trackingId": "c67127b3-d060-41c8-b2c4-6fdb237ddf21"
 			}
 		},
 		"metadata": {
@@ -35,9 +35,9 @@
 				"source": [
 					"print(\"test\")\r\n",
 					"print(\"again\")\r\n",
-					"print(\"new\")"
+					"print(\"new\")\r\n",
+					"print(\"16/09/2022\")"
 				],
-				"attachments": null,
 				"execution_count": null
 			}
 		]
